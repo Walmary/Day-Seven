@@ -1,0 +1,59 @@
+@keyframes runLeft {
+    0% {
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: 800px;
+    }
+}
+
+body {
+    background-color: powderblue;
+    color: lemonchiffon;
+    height: 350vh;
+}
+
+h1 {
+    color: blue;
+}
+
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+.list {
+    margin: 1em;
+    width: 22%;
+    border: solid lemonchiffon;
+    font-size: 12px;
+    padding: 8px;
+    border-radius: 22px;
+    border-width: .2px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.profe {
+    border: solid white;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+.Video {
+    border: solid white;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
+
+.form {
+    border: solid white;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+}
